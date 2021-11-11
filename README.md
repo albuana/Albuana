@@ -1,4 +1,4 @@
-### Hi there, I'm Ana Albuquerque</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Albuana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-barreira-albuquerque/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ana.albuquerquee/)
@@ -22,11 +22,8 @@ I think curiosity and persistence are the characteristics that best describe me.
 
 📈 **My GitHub Stats:**
 
-<a href="https://github.com/Albuana/Albuana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albuana&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albuana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albuana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Albuana&show_icons=true&count_private=true&include_all_commits=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=bc2b95&bg_color=1d1f21" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albuana&exclude_repo=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4"/>
 </p>
+

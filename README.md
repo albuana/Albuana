@@ -5,6 +5,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Albuana)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana)
+**I'm an Early 🐤** 
+
 
 
 <details>

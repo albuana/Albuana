@@ -4,18 +4,16 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ana.albuquerquee/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Albuana)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana)
-**I'm an Early 🐤** 
-
-
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 
 
 <details>
   <summary><b>&nbsp;About&nbsp;Me&nbsp;👤</b></summary>
   <br/>
 <p align="justify"> 
-I think curiosity and persistence are the characteristics that best describe me. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blank">Instituto Superior Técnico</a> and simultaneously developing Albutech startup and <a href="https://www.instagram.com/nekie_store/
-" target="_blank">NEKIE</a>. Fascinated by cybersecurity and emotional intelligence, from an early age I realized that without risk there is no gain. Learn is my goal.
-  </p>
+I think curiosity and persistence are the characteristics that best describe me. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
+I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blank">Instituto Superior Técnico</a> and simultaneously developing Albutech startup and <a href="https://www.instagram.com/nekie_store/
+" target="_blank">NEKIE</a>. Fascinated by cybersecurity and emotional intelligence, from an early age I realized that without risk there is no gain. Learn is my goal. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
  
 </details> 
 

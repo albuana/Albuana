@@ -41,8 +41,8 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
 
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=albuana&show_icons=true&locale=en&layout=compact" alt="albuana" />&nbsp
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=albuana&show_icons=true&locale=en" alt="albuana" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=albuana&show_icons=true&locale=en&layout=compact" alt="albuana" />&nbsp
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=albuana&show_icons=true&locale=en" alt="albuana" />
   <!-- <img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=albuana&" alt="albuana" /> -->
 </p>
 

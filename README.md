@@ -6,9 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana)
 
-I think curiosity and persistence are the characteristics that best describe me. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
-I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blank">Instituto Superior Técnico</a> and simultaneously developing Albutech startup and NEKIE. 
-Fascinated by cybersecurity and emotional intelligence, from an early age I realized that without risk there is no gain. Learn is my goal.
+I think curiosity and persistence are the characteristics that best describe me. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blank">Instituto Superior Técnico</a> and simultaneously developing Albutech startup and NEKIE. Fascinated by cybersecurity and emotional intelligence, from an early age I realized that without risk there is no gain. Learn is my goal.
 
  <!-- here -->
 

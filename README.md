@@ -22,6 +22,10 @@ I think curiosity and persistence are the characteristics that best describe me.
 
 📈 **My GitHub Stats:**
 
+<a href="https://github.com/Albuana/Albuana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albuana&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albuana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albuana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>

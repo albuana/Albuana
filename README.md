@@ -1,7 +1,7 @@
-### Hi there, I'm Albuana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello folk, I'm Albuana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 
-
+### I'm glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 
+---
 <details>
   <summary><b>&nbsp;About&nbsp;Me&nbsp;👤</b></summary>
   <br/>
@@ -11,7 +11,9 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
 " target="_blank">NEKIE</a>. Fascinated by cybersecurity and emotional intelligence, from an early age I realized that without risk there is no gain. Learn is my goal. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
  
-</details> 
+</details>
+
+---
 
 <details>
   <summary><b>&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;🛠️</b></summary>
@@ -21,6 +23,7 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
 
 </details>
 
+---
 
  <!-- here
 
@@ -32,7 +35,7 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
 </br>
 -->
 
-📈 **My GitHub Stats:**
+#### My GitHub Stats 📈:
 
 <p>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=albuana&show_icons=true&locale=en&layout=compact" alt="albuana" />&nbsp
@@ -40,12 +43,15 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
   <!-- <img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=albuana&" alt="albuana" /> -->
 </p>
 
-## Stay connected:
+---
+
+#### Stay connected:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-barreira-albuquerque/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ana.albuquerquee/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Albuana)
 
+---
 
  <!--
 <h3 align="left">Connect with me:</h3>

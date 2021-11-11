@@ -38,8 +38,6 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
 
 📈 **My GitHub Stats:**
 
-
-
 <p>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=albuana&show_icons=true&locale=en&layout=compact" alt="albuana" />&nbsp
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=albuana&show_icons=true&locale=en" alt="albuana" />
@@ -48,13 +46,11 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
 
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albuana&label=Profile%20views&color=0e75b6&style=flat" alt="albuana" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albuana" alt="albuana" /></a> </p>
-
+ <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ana-barreira-albuquerque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-barreira-albuquerque" height="30" width="40" /></a>
 <a href="https://instagram.com/ana.albuquerquee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ana.albuquerquee" height="30" width="40" /></a>
+<a href="https://instagram.com/ana.albuquerquee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="ana.albuquerquee" height="30" width="40" /></a>
 </p>
+-->

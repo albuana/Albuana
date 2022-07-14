@@ -8,9 +8,11 @@
 
 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 
 #### I'm glad to see you here, folk! 
+
+---
   
 <details>
-  <summary><b>&nbsp;About&nbsp;Me&nbsp;👤</b></summary>
+  <summary><b>&nbsp;About&nbsp;Me&nbsp;</b></summary>
   <br/>
 <p align="justify"> 
 I think curiosity and persistence are the characteristics that best describe me. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
@@ -23,7 +25,7 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
 ---
 
 <details>
-  <summary><b>&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;🛠️</b></summary>
+  <summary><b>&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;🛠</b></summary>
   <br/>
   
   

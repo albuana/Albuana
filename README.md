@@ -3,23 +3,8 @@
 <h2 align="center">Hello there, I'm Albuana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img>
 </h2> 
 
-
-                                                                                                                                      
-       
-                                                                                                                                      
-   <img width="162" alt="me" src="https://user-images.githubusercontent.com/72214330/179012877-47e4efb7-f87c-47bc-969b-32aa85f1c355.png"width="70">
-                                                                                                                                   
-                                                                                                                                      
-<img src="https://user-images.githubusercontent.com/72214330/179012877-47e4efb7-f87c-47bc-969b-32aa85f1c355.png" width="150">
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-
+                                                                                                                                     
+      
 <img src="https://user-images.githubusercontent.com/72214330/179011042-aaae55f5-3254-4c87-9141-85e11b96e7f6.png" width="150">
 
 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 

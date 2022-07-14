@@ -28,7 +28,7 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
 ---
 
 <details>
-  <summary><b>&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;🛠</b></summary>
+  <summary><b>&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;</b></summary>
   <br/>
   
   

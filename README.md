@@ -2,8 +2,9 @@
 
 <h2 align="justify">Hello there, I'm Albuana 🌸
 </h2> 
-
-                                                                                                                                     
+ 
+<p align="justify"> 
+I'm a Software Engineer at <a href="https://www.vilt-group.com/en/" target="_blank">VILT</a>
       
 <img src="https://user-images.githubusercontent.com/72214330/179011042-aaae55f5-3254-4c87-9141-85e11b96e7f6.png" width="150">
 

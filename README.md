@@ -66,6 +66,13 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
   <!-- <img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=albuana&" alt="albuana" /> -->
 </p>
 
+ ---
+ 
+<img src="https://user-images.githubusercontent.com/72214330/179011042-aaae55f5-3254-4c87-9141-85e11b96e7f6.png" width="150">
+
+&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 
+#### Thanks for seeing my GitHub profile. I was glad to see you here, folk! 
+ 
 ---
 
 #### Stay connected:
@@ -73,13 +80,6 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-barreira-albuquerque/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ana.albuquerquee/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Albuana)
-
----
- 
- <img src="https://user-images.githubusercontent.com/72214330/179011042-aaae55f5-3254-4c87-9141-85e11b96e7f6.png" width="150">
-
-&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 
-#### Thanks for seeing my GitHub profile. I was glad to see you here, folk! 
  
  ---
 

@@ -5,6 +5,13 @@
  
 <p align="justify"> 
 I'm a Software Engineer at <a href="https://www.vilt-group.com/en/" target="_blank">VILT</a>.
+
+I really enjoy reading books about leadership, I mean I'm a huuuuuge fan of these type of books. 
+
+I'm currently reading this one: 
+ 
+<img src="https://user-images.githubusercontent.com/72214330/183400765-57a4593f-bcc5-4246-afe6-c3b46875a66b.jpg" width="200">
+
 </p>
       
 ---
@@ -13,9 +20,16 @@ I'm a Software Engineer at <a href="https://www.vilt-group.com/en/" target="_bla
   <summary><b>&nbsp;About&nbsp;Me&nbsp;</b></summary>
   <br/>
 <p align="justify"> 
-I think curiosity and persistence are the characteristics that best describe me. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
+I think curiosity and persistence are the characteristics that best describe me. 
+I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. 
+That's why I like to make things that make a difference. 😊
+ 
 I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blank">Instituto Superior Técnico</a> and simultaneously developing Albutech startup and <a href="https://www.instagram.com/nekie_store/
-" target="_blank">NEKIE</a>. Fascinated by emotional intelligence, from an early age I realized that without risk there is no gain. Learn is my goal. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+" target="_blank">NEKIE</a>. 
+
+Fascinated by emotional intelligence, from an early age I realized that without risk there is no gain. 
+
+Learn is my goal. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
   
   

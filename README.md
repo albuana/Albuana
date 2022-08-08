@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 align="center">Hello there, I'm Albuana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img>
+<h2 align="center">Hello there, I'm Albuana 🌸<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img>
 </h2> 
 
                                                                                                                                      
@@ -18,7 +18,7 @@
 <p align="justify"> 
 I think curiosity and persistence are the characteristics that best describe me. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
 I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blank">Instituto Superior Técnico</a> and simultaneously developing Albutech startup and <a href="https://www.instagram.com/nekie_store/
-" target="_blank">NEKIE</a>. Fascinated by cybersecurity and emotional intelligence, from an early age I realized that without risk there is no gain. Learn is my goal. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+" target="_blank">NEKIE</a>. Fascinated by emotional intelligence, from an early age I realized that without risk there is no gain. Learn is my goal. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
   
   

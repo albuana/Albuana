@@ -17,7 +17,7 @@ I'm currently reading this one:
 ---
   
 <details>
-  <summary><b>&nbsp;About&nbsp;Me&nbsp;</b></summary>
+  <summary><b>&nbsp;More About&nbsp;Me&nbsp;</b></summary>
   <br/>
 <p align="justify"> 
 I think curiosity and persistence are the characteristics that best describe me. 
@@ -87,7 +87,8 @@ Learn is my goal. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 
 
 <h4 align="justify">I was glad to see you here, folk!</h4> 
-<h4 align="justify">Thanks for seeing my GitHub profile.</h4> 
+<h4 align="justify">I hope you enjoyed my GitHub profile.</h4> 
+
 
 </div>
  

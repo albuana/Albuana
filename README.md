@@ -4,13 +4,9 @@
 </h2> 
  
 <p align="justify"> 
-I'm a Software Engineer at <a href="https://www.vilt-group.com/en/" target="_blank">VILT</a>
+I'm a Software Engineer at <a href="https://www.vilt-group.com/en/" target="_blank">VILT</a>.
+</p>
       
-<img src="https://user-images.githubusercontent.com/72214330/179011042-aaae55f5-3254-4c87-9141-85e11b96e7f6.png" width="150">
-
-&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 
-#### I'm glad to see you here, folk! 
-
 ---
   
 <details>
@@ -79,6 +75,13 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Albuana)
 
 ---
+ 
+ <img src="https://user-images.githubusercontent.com/72214330/179011042-aaae55f5-3254-4c87-9141-85e11b96e7f6.png" width="150">
+
+&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 
+#### Thanks for seeing my GitHub profile. I was glad to see you here, folk! 
+ 
+ ---
 
  <!--
 <h3 align="left">Connect with me:</h3>

@@ -69,13 +69,17 @@ I'm currently studying at <a href="https://tecnico.ulisboa.pt/pt/" target="_blan
  ---
  
 <img src="https://user-images.githubusercontent.com/72214330/179011042-aaae55f5-3254-4c87-9141-85e11b96e7f6.png" width="150">
+ 
+ &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 
 
-&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Albuana.Albuana) 
-#### Thanks for seeing my GitHub profile. I was glad to see you here, folk! 
+<h4 align="justify">I was glad to see you here, folk!</h4> 
+<h4 align="justify">Thanks for seeing my GitHub profile.</h4> 
+
+</div>
  
 ---
 
-#### Stay connected:
+#### Stay connected with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-barreira-albuquerque/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ana.albuquerquee/)

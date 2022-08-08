@@ -1,6 +1,6 @@
-<div align="center">
+<div align="justify">
 
-<h2 align="center">Hello there, I'm Albuana 🌸
+<h2 align="justify">Hello there, I'm Albuana 🌸
 </h2> 
 
                                                                                                                                      

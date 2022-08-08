@@ -2,6 +2,8 @@
 
 <h2 align="justify">Hello there, I'm Albuana 🌸
 </h2> 
+
+
  
 <p align="justify"> 
 I'm a Software Engineer at <a href="https://www.vilt-group.com/en/" target="_blank">VILT</a>.
@@ -13,7 +15,12 @@ I'm currently reading this one:
 <img src="https://user-images.githubusercontent.com/72214330/183400765-57a4593f-bcc5-4246-afe6-c3b46875a66b.jpg" width="200">
 
 </p>
-      
+
+
+---
+
+<h4 align="center">"My increased effort to first focus on others and add value to them increased the energy of those I led - and it increased my energy while I was leading them."</h4>
+
 ---
   
 <details>

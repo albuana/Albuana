@@ -6,7 +6,7 @@
 
  
 <p align="justify"> 
-I'm a Software Engineer at <a href="https://www.vilt-group.com/en/" target="_blank">VILT</a>.
+I'm a Software Engineer.
 
 I really enjoy reading books about leadership, I mean I'm a huuuuuge fan of these type of books. 
 
